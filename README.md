@@ -20,7 +20,7 @@ A small healthcare clinic suffered a significant ransomware attack. The attacker
 ## Completed Incident handler's journal
 
 
-<a href="https://docs.google.com/document/d/18IDHp59-8ZMbsPaAhUnxk6ok8Hi5U4nwjBPjGkGZobg/edit?usp=sharing"><img src="https://img.shields.io/badge/-GoogleDOCS:Incident handler's journal-FFFF?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://docs.google.com/document/d/1FpOvcXRTaXcmABcP6pwAZ7nj2nbA-Ysg4iuchK-FQxY/edit?usp=sharing"><img src="https://img.shields.io/badge/-GoogleDOCS:Incident handler's journal-FFFF?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 
 
 
@@ -42,5 +42,7 @@ Journal Template
 2.**Review the details of the scenario**
 
 3.**Record journal Entry**
+
+4.**Write a Reflection Entry**
 
 
